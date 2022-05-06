@@ -1,4 +1,4 @@
-Gym Website
+
 This Website is done using Html,css and javascript.
 This is Responsive Website.
 index.html is main file.
